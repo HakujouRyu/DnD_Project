@@ -1,0 +1,556 @@
+RACE,Class,n_characters
+Human,Wizard,21665
+Half-Elf,Warlock,19173
+Human,Fighter,18920
+Half-Orc,Fighter,13922
+Half-Elf,Bard,12903
+Half-Orc,Barbarian,12377
+Dragonborn,Paladin,11973
+Goliath,Barbarian,11938
+Half-Elf,Sorcerer,11706
+Half-Orc,Ranger,11509
+Elf,Cleric,11401
+Human,Rogue,11112
+Half-Elf,Paladin,11074
+Aarakocra,Fighter,10603
+Tabaxi,Rogue,10508
+Human,Cleric,9377
+Dragonborn,Fighter,9187
+Aarakocra,Barbarian,9169
+Dragonborn,Sorcerer,9072
+Tiefling,Warlock,9054
+Half-Elf,Rogue,8939
+Half-Orc,Monk,8910
+Firbolg,Druid,8443
+Half-Orc,Rogue,8018
+Half-Orc,Druid,7693
+Dragonborn,Warlock,7216
+Goliath,Fighter,7050
+Half-Elf,Fighter,6913
+Human,Warlock,6893
+Tabaxi,Monk,6569
+Human,Paladin,6465
+Human,Monk,6427
+Changeling,Rogue,6374
+Human,Sorcerer,6202
+Half-Elf,Cleric,6190
+Aarakocra,Cleric,6175
+Human,Ranger,5729
+Firbolg,Cleric,5431
+Half-Orc,Cleric,5395
+Dragonborn,Rogue,5393
+Human,Bard,5374
+Aarakocra,Monk,5272
+Dragonborn,Barbarian,5198
+Kenku,Rogue,5183
+Changeling,Bard,4806
+Changeling,Warlock,4786
+Gnome,Cleric,4667
+Tiefling,Sorcerer,4632
+Human,Barbarian,4554
+Tabaxi,Fighter,4506
+Gnome,Paladin,4496
+Dragonborn,Cleric,4445
+Half-Elf,Wizard,4326
+Human,Druid,4280
+Firbolg,Warlock,4279
+Half-Orc,Paladin,3970
+Aarakocra,Ranger,3822
+Aarakocra,Paladin,3764
+Tabaxi,Ranger,3745
+Goliath,Monk,3742
+Tortle,Monk,3739
+Yuan-ti Pureblood,Warlock,3687
+Tabaxi,Bard,3677
+Gnome,Warlock,3641
+Minotaur,Barbarian,3564
+Goblin,Rogue,3546
+Gnome,Sorcerer,3507
+Dragonborn,Bard,3479
+Tabaxi,Wizard,3417
+Tiefling,Bard,3357
+Dragonborn,Wizard,3342
+Dragonborn,Ranger,3276
+Lizardfolk,Druid,3273
+Bugbear,Barbarian,3215
+Half-Elf,Ranger,3195
+Bugbear,Fighter,3086
+Tabaxi,Warlock,3036
+Aarakocra,Rogue,3006
+Changeling,Sorcerer,3004
+Dragonborn,Monk,2973
+Kobold,Rogue,2905
+Aarakocra,Wizard,2901
+Half-Elf,Monk,2817
+Yuan-ti Pureblood,Sorcerer,2797
+Orc,Barbarian,2797
+Goliath,Cleric,2777
+Kenku,Monk,2741
+Vedalken,Wizard,2736
+Goliath,Druid,2726
+Tortle,Druid,2719
+Half-Orc,Warlock,2715
+Halfling,Wizard,2671
+Tortle,Cleric,2666
+Lizardfolk,Cleric,2577
+Elf,Fighter,2571
+Goliath,Paladin,2507
+Firbolg,Sorcerer,2471
+Goblin,Fighter,2466
+Elf,Barbarian,2459
+Elf,Druid,2437
+Hobgoblin,Wizard,2404
+Tortle,Barbarian,2345
+Bugbear,Rogue,2344
+Lizardfolk,Ranger,2339
+Goliath,Ranger,2336
+Lizardfolk,Barbarian,2327
+Hobgoblin,Fighter,2209
+Goliath,Rogue,2192
+Half-Elf,Druid,2186
+Minotaur,Fighter,2167
+Aasimar,Warlock,2159
+Tiefling,Rogue,2150
+Tiefling,Wizard,2142
+Lizardfolk,Fighter,2134
+Tabaxi,Sorcerer,2129
+Half-Orc,Blood Hunter,2080
+Dragonborn,Druid,2024
+Triton,Paladin,2011
+Half-Elf,Barbarian,1986
+Human,Blood Hunter,1954
+Elf,Monk,1941
+Aasimar,Sorcerer,1886
+Loxodon,Cleric,1858
+Aarakocra,Bard,1834
+Firbolg,Ranger,1821
+Aarakocra,Sorcerer,1810
+Aarakocra,Warlock,1807
+Lizardfolk,Paladin,1806
+Firbolg,Rogue,1774
+Lizardfolk,Warlock,1774
+Kobold,Sorcerer,1772
+Goblin,Ranger,1766
+Yuan-ti Pureblood,Bard,1742
+Lizardfolk,Monk,1734
+Half-Orc,Wizard,1711
+Tiefling,Paladin,1702
+Aarakocra,Druid,1698
+Half-Orc,Bard,1683
+Dwarf,Cleric,1671
+Changeling,Wizard,1671
+Firbolg,Bard,1639
+Tortle,Fighter,1638
+Aasimar,Bard,1637
+Firbolg,Paladin,1600
+Firbolg,Fighter,1585
+Tiefling,Cleric,1580
+Dwarf,Druid,1563
+Orc,Fighter,1557
+Kenku,Ranger,1548
+Kenku,Fighter,1545
+Lizardfolk,Sorcerer,1530
+Kalashtar,Warlock,1518
+Aasimar,Wizard,1502
+Goliath,Sorcerer,1484
+Tabaxi,Druid,1478
+Yuan-ti Pureblood,Wizard,1468
+Gnome,Bard,1468
+Kobold,Fighter,1465
+Lizardfolk,Rogue,1445
+Kalashtar,Cleric,1433
+Half-Orc,Sorcerer,1395
+Tiefling,Fighter,1392
+Kenku,Cleric,1387
+Kenku,Warlock,1387
+Firbolg,Monk,1375
+Goblin,Monk,1374
+Goliath,Blood Hunter,1339
+Tabaxi,Cleric,1338
+Goblin,Barbarian,1313
+Half-Elf,Blood Hunter,1281
+Aasimar,Rogue,1280
+Dragonborn,Blood Hunter,1274
+Triton,Fighter,1274
+Gnome,Fighter,1255
+Genasi,Rogue,1235
+Changeling,Fighter,1231
+Kenku,Wizard,1229
+Yuan-ti Pureblood,Paladin,1217
+Goblin,Warlock,1211
+Human,Artificer,1191
+Halfling,Rogue,1189
+Genasi,Warlock,1172
+Tabaxi,Barbarian,1171
+Goliath,Warlock,1158
+Goliath,Wizard,1157
+Yuan-ti Pureblood,Rogue,1156
+Firbolg,Barbarian,1155
+Genasi,Ranger,1154
+Tabaxi,Paladin,1151
+Goblin,Sorcerer,1122
+Feral Tiefling,Rogue,1108
+Elf,Ranger,1104
+Kenku,Bard,1102
+Elf,Paladin,1101
+Gnome,Monk,1092
+Minotaur,Paladin,1084
+Triton,Sorcerer,1082
+Bugbear,Monk,1080
+Tortle,Wizard,1079
+Aasimar,Fighter,1079
+Triton,Warlock,1077
+Goblin,Wizard,1068
+Firbolg,Wizard,1051
+Kalashtar,Druid,1044
+Changeling,Cleric,1030
+Kalashtar,Monk,1024
+Kalashtar,Sorcerer,1021
+Loxodon,Druid,1014
+Elf,Sorcerer,1009
+Kobold,Ranger,1009
+Genasi,Bard,1009
+Centaur,Fighter,994
+Centaur,Barbarian,973
+Minotaur-UA,Barbarian,973
+Kobold,Monk,973
+Aasimar,Paladin,964
+Aasimar,Cleric,963
+Changeling,Monk,935
+Vedalken,Artificer,934
+Goliath,Bard,919
+Genasi,Fighter,918
+Elf,Rogue,916
+Kalashtar,Bard,896
+Lizardfolk,Wizard,883
+Goblin,Bard,873
+Aarakocra,Blood Hunter,869
+Elf,Wizard,860
+Centaur,Cleric,858
+Bugbear,Ranger,843
+Kenku,Druid,823
+Kobold,Warlock,812
+Dwarf,Monk,809
+Tortle,Ranger,797
+Lizardfolk,Bard,797
+Tortle,Paladin,791
+Changeling,Druid,782
+Goblin,Cleric,778
+Loxodon,Monk,773
+Centaur,Druid,771
+Tiefling,Monk,755
+Goblin,Druid,753
+Genasi,Druid,743
+Kobold,Wizard,734
+Genasi,Sorcerer,727
+Tortle,Sorcerer,726
+Kalashtar,Barbarian,722
+Gnome,Druid,711
+Kobold,Bard,710
+Centaur,Ranger,702
+Changeling,Paladin,698
+Tabaxi,Blood Hunter,695
+Elf,Bard,687
+Loxodon,Barbarian,686
+Tiefling,Ranger,681
+Elf,Warlock,676
+Kenku,Sorcerer,675
+Tortle,Rogue,672
+Lizardfolk,Blood Hunter,668
+Feral Tiefling,Fighter,663
+Tortle,Warlock,663
+Kalashtar,Paladin,662
+Tiefling,Blood Hunter,661
+Changeling,Ranger,658
+Yuan-ti Pureblood,Fighter,655
+Kobold,Cleric,654
+Tiefling,Druid,645
+Kalashtar,Wizard,642
+Triton,Bard,641
+Tortle,Bard,638
+Simic Hybrid,Monk,629
+Genasi,Paladin,622
+Kalashtar,Fighter,614
+Kalashtar,Rogue,614
+Aarakocra,Artificer,610
+Triton,Cleric,608
+Firbolg,Blood Hunter,607
+Feral Tiefling,Monk,603
+Triton,Barbarian,603
+Minotaur,Cleric,601
+Vedalken,Cleric,599
+Minotaur-UA,Fighter,587
+Dwarf,Sorcerer,585
+Bugbear,Paladin,585
+Simic Hybrid,Barbarian,581
+Kenku,Blood Hunter,564
+Yuan-ti Pureblood,Cleric,558
+Simic Hybrid,Druid,536
+Simic Hybrid,Fighter,536
+Loxodon,Paladin,533
+Orc,Paladin,533
+Gnome,Wizard,530
+Kobold,Barbarian,529
+Centaur-UA,Fighter,514
+Goblin,Artificer,510
+Genasi,Monk,497
+Kobold,Druid,496
+Gnome,Ranger,495
+Triton,Druid,489
+Vedalken-UA,Wizard,471
+Kobold,Paladin,467
+Loxodon,Fighter,465
+Hobgoblin,Cleric,464
+Yuan-ti Pureblood,Druid,464
+Halfling,Fighter,458
+Feral Tiefling,Wizard,458
+Orc,Cleric,457
+Kenku,Barbarian,456
+Goblin,Paladin,454
+Simic Hybrid,Rogue,454
+Centaur,Monk,454
+Tiefling,Barbarian,453
+Elf,Blood Hunter,449
+Hobgoblin,Paladin,446
+Simic Hybrid,Warlock,439
+Gnome,Rogue,437
+Hobgoblin,Rogue,434
+Gnome,Barbarian,427
+Centaur,Paladin,415
+Simic Hybrid,Wizard,415
+Genasi,Cleric,412
+Simic Hybrid,Sorcerer,410
+Kobold,Artificer,409
+Dwarf,Rogue,405
+Triton,Rogue,400
+Changeling,Artificer,393
+Yuan-ti Pureblood,Monk,386
+Halfling,Cleric,384
+Hobgoblin,Warlock,383
+Hobgoblin,Barbarian,382
+Halfling,Ranger,380
+Halfling,Artificer,379
+Orc,Warlock,378
+Minotaur,Monk,376
+Kalashtar,Ranger,373
+Feral Tiefling,Ranger,370
+Changeling,Blood Hunter,370
+Centaur-UA,Barbarian,363
+Bugbear,Warlock,363
+Bugbear,Cleric,361
+Kalashtar,Blood Hunter,358
+Triton,Ranger,358
+Orc,Wizard,355
+Tortle,Blood Hunter,349
+Half-Elf,Artificer,349
+Dwarf,Fighter,347
+Vedalken,Rogue,345
+Yuan-ti Pureblood,Ranger,338
+Aasimar,Ranger,336
+Genasi,Wizard,327
+Triton,Monk,326
+Bugbear,Druid,325
+Orc,Monk,323
+Centaur-UA,Ranger,320
+Hobgoblin,Artificer,318
+Verdan,Sorcerer,316
+Dwarf,Ranger,315
+Dwarf,Warlock,311
+Aasimar,Monk,308
+Orc,Druid,305
+Loxodon-UA,Cleric,304
+Bugbear,Bard,303
+Loxodon,Wizard,300
+Orc,Bard,291
+Verdan,Warlock,290
+Feral Tiefling,Warlock,287
+Minotaur,Warlock,286
+Orc,Sorcerer,279
+Halfling,Warlock,279
+Goblin,Blood Hunter,277
+Orc,Ranger,275
+Kenku,Paladin,275
+Gnome,Blood Hunter,267
+Bugbear,Blood Hunter,266
+Hobgoblin,Monk,264
+Simic Hybrid,Blood Hunter,264
+Dwarf,Bard,255
+Minotaur,Bard,255
+Minotaur,Druid,253
+Dragonborn,Artificer,247
+Aasimar,Druid,247
+Centaur-UA,Cleric,244
+Changeling,Barbarian,243
+Vedalken,Druid,241
+Simic Hybrid,Ranger,240
+Vedalken,Fighter,240
+Simic Hybrid,Cleric,239
+Dwarf,Wizard,237
+Hobgoblin,Sorcerer,234
+Dwarf,Barbarian,233
+Centaur-UA,Druid,231
+Minotaur-UA,Paladin,229
+Elf,Artificer,228
+Orc,Rogue,227
+Yuan-ti Pureblood,Barbarian,225
+Genasi,Barbarian,224
+Halfling,Druid,221
+Kenku,Artificer,220
+Bugbear,Wizard,215
+Halfling,Monk,213
+Yuan-ti Pureblood,Blood Hunter,213
+Feral Tiefling,Blood Hunter,212
+Loxodon,Rogue,206
+Tabaxi,Artificer,205
+Verdan,Bard,205
+Simic Hybrid,Artificer,204
+Loxodon,Sorcerer,203
+Centaur,Rogue,199
+Triton,Wizard,197
+Halfling,Sorcerer,197
+Minotaur,Blood Hunter,197
+Loxodon-UA,Barbarian,193
+Minotaur,Rogue,193
+Centaur-UA,Monk,190
+Hobgoblin,Ranger,189
+Centaur-UA,Paladin,189
+Bugbear,Sorcerer,188
+Centaur,Blood Hunter,187
+Minotaur,Ranger,185
+Loxodon,Bard,184
+Halfling,Bard,182
+Hobgoblin,Blood Hunter,176
+Loxodon-UA,Monk,173
+Minotaur,Wizard,172
+Halfling,Barbarian,170
+Feral Tiefling,Barbarian,166
+Orc,Blood Hunter,165
+Dwarf,Blood Hunter,162
+Loxodon,Warlock,162
+Hobgoblin,Bard,162
+Vedalken,Sorcerer,161
+Loxodon,Ranger,161
+Centaur,Warlock,159
+Vedalken,Warlock,157
+Minotaur-UA,Cleric,156
+Minotaur,Sorcerer,156
+Loxodon-UA,Fighter,149
+Loxodon-UA,Druid,147
+Simic Hybrid,Bard,146
+Vedalken,Monk,142
+Half-Orc,Artificer,142
+Viashino-UA,Rogue,139
+Genasi,Blood Hunter,138
+Centaur,Bard,136
+Triton,Blood Hunter,136
+Kobold,Blood Hunter,133
+Dwarf,Paladin,133
+Vedalken,Bard,132
+Loxodon-UA,Paladin,131
+Tortle,Artificer,129
+Goliath,Artificer,128
+Simic Hybrid,Paladin,128
+Firbolg,Artificer,127
+Feral Tiefling,Cleric,126
+Yuan-ti Pureblood,Artificer,124
+Aasimar,Blood Hunter,120
+Kalashtar,Artificer,115
+Feral Tiefling,Sorcerer,115
+Centaur,Wizard,114
+Aasimar,Barbarian,113
+Centaur,Sorcerer,110
+Centaur-UA,Blood Hunter,109
+Verdan,Rogue,109
+Minotaur-UA,Monk,107
+Tiefling,Artificer,107
+Aasimar,Artificer,105
+Viashino-UA,Monk,103
+Minotaur-UA,Blood Hunter,102
+Verdan,Paladin,99
+Lizardfolk,Artificer,97
+Hobgoblin,Druid,96
+Loxodon,Blood Hunter,95
+Feral Tiefling,Bard,93
+Minotaur-UA,Druid,91
+Viashino-UA,Fighter,91
+Loxodon,Artificer,90
+Feral Tiefling,Druid,89
+Halfling,Paladin,83
+Vedalken,Ranger,81
+Simic Hybrid-UA,Barbarian,79
+Viashino-UA,Barbarian,79
+Minotaur-UA,Bard,77
+Bugbear,Artificer,76
+Feral Tiefling,Artificer,76
+Simic Hybrid-UA,Fighter,74
+Centaur-UA,Bard,74
+Vedalken,Paladin,72
+Minotaur-UA,Warlock,71
+Feral Tiefling,Paladin,70
+Centaur-UA,Warlock,68
+Simic Hybrid-UA,Monk,68
+Vedalken-UA,Cleric,66
+Centaur-UA,Rogue,65
+Verdan,Artificer,60
+Viashino-UA,Ranger,60
+Vedalken,Barbarian,59
+Verdan,Wizard,59
+Verdan,Monk,59
+Verdan,Fighter,56
+Loxodon-UA,Rogue,56
+Halfling,Blood Hunter,55
+Simic Hybrid-UA,Warlock,55
+Vedalken-UA,Rogue,53
+Simic Hybrid-UA,Rogue,52
+Minotaur-UA,Wizard,51
+Loxodon-UA,Blood Hunter,51
+Minotaur-UA,Sorcerer,51
+Minotaur,Artificer,49
+Verdan,Cleric,48
+Minotaur-UA,Ranger,48
+Minotaur-UA,Rogue,47
+Centaur-UA,Sorcerer,46
+Gnome,Artificer,45
+Simic Hybrid-UA,Sorcerer,45
+Loxodon-UA,Ranger,45
+Loxodon-UA,Wizard,44
+Genasi,Artificer,43
+Centaur,Artificer,43
+Vedalken-UA,Fighter,43
+Simic Hybrid-UA,Ranger,43
+Simic Hybrid-UA,Blood Hunter,42
+Centaur-UA,Wizard,39
+Simic Hybrid-UA,Druid,39
+Loxodon-UA,Sorcerer,38
+Triton,Artificer,38
+Verdan,Barbarian,36
+Loxodon-UA,Warlock,35
+Vedalken,Blood Hunter,35
+Simic Hybrid-UA,Wizard,35
+Vedalken-UA,Warlock,34
+Dwarf,Artificer,29
+Vedalken-UA,Monk,29
+Vedalken-UA,Sorcerer,28
+Verdan,Druid,27
+Verdan,Blood Hunter,25
+Viashino-UA,Blood Hunter,25
+Verdan,Ranger,25
+Simic Hybrid-UA,Cleric,24
+Loxodon-UA,Bard,24
+Vedalken-UA,Druid,22
+Orc,Artificer,22
+Viashino-UA,Warlock,18
+Simic Hybrid-UA,Paladin,16
+Simic Hybrid-UA,Bard,16
+Vedalken-UA,Bard,16
+Viashino-UA,Sorcerer,13
+Viashino-UA,Paladin,13
+Viashino-UA,Druid,13
+Viashino-UA,Wizard,10
+Vedalken-UA,Blood Hunter,9
+Viashino-UA,Cleric,7
+Vedalken-UA,Ranger,7
+Viashino-UA,Bard,5
+Vedalken-UA,Barbarian,5
+Vedalken-UA,Paladin,4
+Viashino-UA,Artificer,1
